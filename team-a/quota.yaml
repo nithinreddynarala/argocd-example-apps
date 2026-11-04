@@ -1,7 +1,0 @@
-apiVersion: v1
-kind: ResourceQuota
-metadata:
-  name: team-a-quota
-spec:
-  hard:
-    pods: "10"
